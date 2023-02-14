@@ -2,7 +2,7 @@
 
   Tendo um notebook em python é possivel realizar as analises, incluir imagens, incluir textos, salvar tudo isso em um html e pronto.
   
-  Isso facilita bastante no momento de interagir com os usuários, grupo de executivos e qualquer pessoa que interesse.
+  Isso facilita bastante no momento de interagir com os usuários, grupo de executivos e etc.....
   
   A Análise ja virou o seu relatório.
   
