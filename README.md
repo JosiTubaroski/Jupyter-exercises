@@ -1,4 +1,4 @@
-# Python para Análise de Dados
+# ✨ Python para Análise de Dados ✨
 
 
 Python é uma das linguagens de programação mais populares para análise de dados devido à sua ampla variedade de bibliotecas e ferramentas especializadas. Aqui estão algumas maneiras pelas quais o Python pode auxiliar no processo de análise de dados:
